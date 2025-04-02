@@ -27,7 +27,7 @@ https://api.coincap.io/v2/assets/bitcoin
 ## Entrega
 - Criar um **repositório público** no GitHub.
 - Incluir um arquivo **README.md** com instruções para rodar o projeto.
-- Enviar o link do repositório até a data limite.
+- Enviar o link do repositório até a data limite para lucas@agenciadelucca.com.br ou via linkedIn.
 
 ATENÇÃO: O não envio do desafio até a data estabelecida desqualificará o candidato imediatamente.
 
