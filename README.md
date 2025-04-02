@@ -21,7 +21,8 @@ https://api.coincap.io/v2/assets/bitcoin
 - ✅ Uso adequado de commits no GitHub.
 
 ## Obervações
-Outras depêndencias a serem utilizadas no projeto, como icones, imagens e bibliotecas JS ficam ao seu critério, mas serão avaliadas.
+- Outras depêndencias a serem utilizadas no projeto, como icones, imagens e bibliotecas JS ficam ao seu critério, mas serão avaliadas.
+- Fique tranquilo(a) pois não utilizaremos seu código em produção.
 
 ## Entrega
 - Criar um **repositório público** no GitHub.
