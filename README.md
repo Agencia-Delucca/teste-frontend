@@ -28,4 +28,6 @@ Outras depêndencias a serem utilizadas no projeto, como icones, imagens e bibli
 - Incluir um arquivo **README.md** com instruções para rodar o projeto.
 - Enviar o link do repositório até a data limite.
 
+ATENÇÃO: O não envio do desafio até a data estabelecida desqualificará o candidato imediatamente.
+
 Boa sorte! 🚀
